@@ -40,3 +40,4 @@ src/main/com/uzett/oneneeslip/es/createtUser.kt
 
 build/
 .gradle/
+cache/
