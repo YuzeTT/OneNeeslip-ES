@@ -17,8 +17,10 @@ suspend fun main() {
     bot.apply {
         help()
         soothsaying()
-        createUser()
-        addressGen()
+        //createUser()
+        //addressGen()
+        img()
+        ServerConfig.iris.q
     }
     bot.join()
 }

@@ -33,10 +33,11 @@ hs_err_pid*
 
 # config file
 src/main/kotlin/com/uzett/oneneeslip/es/BotConfig.kt
+src/main/kotlin/com/uzett/oneneeslip/es/ServerConfig.kt
 
 # Kotlin files
-src/main/com/uzett/oneneeslip/es/addressGen.kt
-src/main/com/uzett/oneneeslip/es/createtUser.kt
+src/main/kotlin/com/uzett/oneneeslip/es/plugins/addressGen.kt
+src/main/kotlin/com/uzett/oneneeslip/es/plugins/createUser.kt
 
 build/
 .gradle/
